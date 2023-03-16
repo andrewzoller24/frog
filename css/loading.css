@@ -1,0 +1,30 @@
+
+
+
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://img.rawpixel.com/private/static/images/website/2022-05/frjillwellington00326-image-kwvyjoet.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=795a358710b1875537feb731ac803448');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    filter: blur(30px);
+    position: absolute;
+    z-index: -1;
+}
+
+
+.loading-text {
+    font-size: 50px;
+    color: #ffffff;
+}
