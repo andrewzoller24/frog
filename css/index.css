@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Lato&family=Rubik+Iso&display=swap');
+
+
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+
+.bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('');
+    background-position: center;
+    background-repeat;
+    background-size: cover;
+}
+
+
+.link a {
+    font-family: 'Gloock', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    text-decoration: none;
+    color: grey;
+    justify-content: space-between;
+}
+
+
+.bg .content {
+    font-family: 'Gloock', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    position: fixed;
+    top: 0;
+    color: grey;
+}
+
+
+.link-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    font-size: 20px;
+}
