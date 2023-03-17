@@ -18,7 +18,7 @@ body {
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    background-image: url('');
+    background-image: url('https://www.publicdomainpictures.net/pictures/60000/nahled/green-frog-vintage-background.jpg');
     background-position: center;
     background-repeat;
     background-size: cover;
@@ -30,7 +30,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Rubik Iso', cursive;
     text-decoration: none;
-    color: grey;
+    color: green;
     justify-content: space-between;
 }
 
