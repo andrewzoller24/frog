@@ -1,5 +1,4 @@
 
-
 body {
     display: flex;
     height: 100vh;
@@ -16,4 +15,18 @@ body {
     padding: 50px 20px;
     text-align: center;
     width: 800px;
+}
+
+h3 {
+    margin: 0;
+    opactiy: .5;
+    letter-spacing: 2px;
+}
+
+.joke {
+    font-size: 30px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    margin: 50px auto;
+    max-width: 600px;
 }
