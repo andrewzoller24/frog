@@ -1,5 +1,5 @@
 const jokeEl = document.getElementById('joke')
-const jokeBtn = document.getElementById('jokeBtn')
+const jokeBtn = document.getElementById('btn')
 
 generateJoke()
 
