@@ -1,4 +1,4 @@
-const counters = document.querySelectorAll('counter')
+const counters = document.querySelectorAll('.counter')
 
 counters.ForEach(counter => {
     counter.innerText = '0'
