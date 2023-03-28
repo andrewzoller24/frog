@@ -2,7 +2,7 @@ const textEL = document.getElementById('text')
 const speedEL = document.getElementById('speed')
 const text = 'We love programing!'
 let idx = 1
-let speed = 300 / speedEl.val
+let speed = 300 / speedEL.val
 
 writeText()
 
